@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "2xReMggEFMZ0uts76EYPUPCLDMuactCLjoObjYp9nMSzO9+yCXp/xldvf28z/Hmk4ygSnknhxROEBTLpAZcD2w==",
+  "success": true,
+  "projectFilePath": "/home/josh/submission-qa-gui-exercise-1/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/josh/.nuget/packages/anglesharp/0.17.1/anglesharp.0.17.1.nupkg.sha512",
+    "/home/josh/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.net.test.sdk/16.11.0/microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.testplatform.objectmodel/16.11.0/microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.testplatform.testhost/16.11.0/microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/josh/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/home/josh/.nuget/packages/nunit3testadapter/4.0.0/nunit3testadapter.4.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/selenium.webdriver/4.6.0/selenium.webdriver.4.6.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/sharpziplib/1.4.0/sharpziplib.1.4.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/home/josh/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/webdrivermanager/2.16.1/webdrivermanager.2.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
